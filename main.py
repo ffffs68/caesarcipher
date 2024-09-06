@@ -38,4 +38,4 @@ while 1:
     elif command == "exit" or command == "quit":
         break
     else:
-        print(f"{command}, unknow command!")
+        print(f"{command}, unknown command!")
